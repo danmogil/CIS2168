@@ -1,0 +1,9 @@
+1. 999986, 999988, 999990, 999995, 999996
+
+2. 1.37 s
+
+3. nlogm where n = the input size and m = the PQ's size
+
+4. 1.71 s
+
+5. nlogn
